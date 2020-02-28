@@ -24,6 +24,8 @@ programmers in managing concurrent jobs properly. Instead of focusing on how to
 use modern parallel APIs, this article mainly concentrates on the design
 philosophy behind asynchronous programming patterns.
 
+.. image:: ../_static/appendix/event-loop-vs-threads.png
+
 Introduction
 ------------
 
